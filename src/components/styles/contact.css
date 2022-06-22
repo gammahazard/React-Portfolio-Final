@@ -1,0 +1,54 @@
+div.contactform {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+div.contactinput {
+  display: flex;
+  padding: 1%;
+  justify-content: center;
+}
+div.contactsend {
+  display: flex;
+  justify-content: center;
+}
+div.formsubtitles {
+    display: inline-block;
+    margin-right: 2rem;
+  }
+
+button#send {
+  background-color: white;
+  border: 1px solid black;
+  cursor: pointer;
+  border-radius: 15%;
+}
+button#send:hover {
+  background-color: azure;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+input,
+textarea {
+  background-color: azure;
+  border: 1px solid black;
+}
+
+input:hover,
+textarea:hover {
+  background-color: lightgray;
+  border: 1px solid gray;
+}
+
+h3 {
+  text-align: center;
+}
+
+
+.darkmode--activated button#send {
+    background-color: white;
+  }
+  .darkmode--activated button#send:hover {
+    border: 1px solid gray;
+  }

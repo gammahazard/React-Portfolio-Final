@@ -1,0 +1,20 @@
+:root {
+  --main-color: grey;
+}
+* {
+  font-family: "Rockwell", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+    "Fira Sans", "Droid Sans", "Helvetica Neue", "sans-serif";
+}
+.Rockwell {
+  font-family: "Rockwell", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+    "Fira Sans", "Droid Sans", "Helvetica Neue", "sans-serif";
+}
+.purp {
+  color: grey;
+}
+.purp-bg {
+  background-color: grey;
+}
+.bg {
+  background-color: grey;
+}

@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+/* darkmode */
+.darkmode--activated {
+  color: white;
+}
+/* div stylings */
+div.four.wide.column {
+  background-color: transparent;
+  display: block;
+}
+div.ui.massive.fluid.inverted.vertical.menu {
+  display: inline-flex;
+}
+div#footerbottom {
+  display: block;
+  flex-direction: row;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 6vh;
+  align-items: center;
+  background-color: transparent;
+  width: 100%;
+}
+div#projectsofmine {
+  background-color: black;
+  padding: 25px;
+}
+div.stretched.twelve.wide.column {
+  background-color: beige;
+}
+/* roboto font*/
+@import url("https://fonts.googleapis.com/css2?family=Roboto:bold,ital,wght@1,100;1,300&display=swap");
