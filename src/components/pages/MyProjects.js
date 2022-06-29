@@ -15,6 +15,7 @@ const MyApps = [
     description:
       "A mental health community application to connect mental health advocates in a place where they can share tips and get daily inspiration to remain mindful of their own mental health.",
     link: "https://hivemind-442.herokuapp.com/",
+    id: "HiveMind"
   },
   {
     image: "/Images/marvel-search-engine.png",
@@ -66,6 +67,9 @@ const MyProjects = () => {
           <Header.Content>
             <Icon name="clipboard" />
             My Projects
+            <div class="project-links">
+              <a id="hivemind" href='Hivemind'>Hivemind</a>
+            </div>
           </Header.Content>
         </Header>
       </Segment>

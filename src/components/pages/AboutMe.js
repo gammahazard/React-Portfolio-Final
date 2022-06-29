@@ -36,8 +36,9 @@ const AboutMe = () => {
           </p>
 
           <p style={{ fontSize: 18 }}>
-            I have recently reignited my passion for programming and have been
-            polishing my skills and resume to enter this competitive job market!
+            I pride myself in developing user-friendly UI/UX and generating pages that are both stable and eye-catching!
+            Knowing the competitive nature of this market, I truly believe my previous experiences in education and realizing the importance of life-long learning will be an asset
+            to both me, and my employers. As technology in the web-development field advances, developers must be prepared to adapt and learn (or re-learn) various concepts!
           </p>
         </Segment>
       </Container>

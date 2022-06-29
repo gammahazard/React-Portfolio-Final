@@ -33,7 +33,7 @@ export default function Header() {
       <div class="navbar">
       <Grid>
         <Grid.Column width={16}>
-          <Menu  inverted size='massive' fluid horizontal>
+          <Menu  inverted size='large' fluid horizontal>
        
           
             <Menu.Item color='orange'

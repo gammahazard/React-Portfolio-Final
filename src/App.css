@@ -31,6 +31,7 @@ div#footerbottom {
 div#projectsofmine {
   background-color: black;
   padding: 25px;
+  position:relative;
 }
 div.stretched.twelve.wide.column {
   background-color: beige;
